@@ -1,0 +1,8 @@
+*.spec
+.idea/
+asdad.txt
+build/
+dist/
+venv/
+__pycache__/
+
